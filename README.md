@@ -2,7 +2,7 @@
 
 [![validate](https://github.com/Redsf/cold-email-outreach-engine/actions/workflows/validate.yml/badge.svg)](https://github.com/Redsf/cold-email-outreach-engine/actions/workflows/validate.yml)
 
-> Standalone reference build, pulled out of my [59-workflow n8n portfolio](https://github.com/Redsf/n8n-workflows). Credential-free — no secrets, API keys, or client data included.
+> Standalone reference build, pulled out of my [81-workflow n8n portfolio](https://github.com/Redsf/n8n-workflows). Credential-free — no secrets, API keys, or client data included.
 >
 > Full write-up (strategy, architecture, results) in the case study: [Redsf/cold-email-engine-saas →](https://github.com/Redsf/Redsf/blob/main/case-studies/cold-email-engine-saas.md)
 
